@@ -72,8 +72,8 @@ Designed as a screening level geomechanical tool.
 ## Repository Structure
 
 - `notebooks/` – Main analysis workflow  
-- `src/` – Core functions  
-- `figures/` – Representative outputs  
+- `samples/` – Input samples 
+- `output/` – Representative outputs  
 
 ---
 
